@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MauiApp15</name>
+    </assembly>
+    <members>
+        <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__ObservableValidatorExtensions">
+            <summary>
+            A helper type with generated validation stubs for types deriving from <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservableValidator"/>.
+            </summary>
+            <inheritdoc/>
+        </member>
+        <member name="M:CommunityToolkit.Mvvm.ComponentModel.__Internals.__ObservableValidatorExtensions.CreateAllPropertiesValidator(MauiApp15.VistaModelo.ValidadorRegistro)">
+            <summary>
+            Creates a validation stub for <see cref="T:MauiApp15.VistaModelo.ValidadorRegistro"/> objects.
+            </summary>
+            <param name="_">Dummy parameter, only used to disambiguate the method signature.</param>
+            <returns>A validation stub for <see cref="T:MauiApp15.VistaModelo.ValidadorRegistro"/> objects.</returns>
+        </member>
+    </members>
+</doc>
